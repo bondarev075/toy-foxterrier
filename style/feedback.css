@@ -1,0 +1,45 @@
+.feedback {
+  padding: 40px 0;
+  background: #eee;
+}
+
+.feedback-persons {
+  padding-top: 10px;
+}
+
+.person-image {
+  display: inline-block;
+  margin-right: 10px;
+  float: left;
+}
+
+.person-photo {
+  border: 3px solid rgb(255, 215, 183);
+  border-radius: 100%;
+  height: 100px;
+}
+
+.person-details {
+  display: inline-block;
+  max-width: 270px;
+}
+
+.person-details .text-small {
+  display: block;
+  color: #d14f04;
+}
+
+.person-details .text-medium {
+  margin-bottom: 10px;
+}
+
+.person-social {
+  border-radius: 3px;
+  display: inline-block;
+  padding: 0px 0px 5px;
+}
+
+.person-social-icon {
+  width: 32px;
+  height: 32px;
+}

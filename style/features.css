@@ -1,0 +1,17 @@
+.features {
+  padding: 40px 0;
+  background: #f3f3f3;
+}
+
+.features-item {
+  padding: 10px;
+}
+
+.features-icon {
+  margin-bottom: 20px;
+}
+
+.icon {
+  width: 50px;
+  height: 50px;
+}
