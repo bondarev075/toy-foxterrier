@@ -42,3 +42,9 @@ body {
 .text-center {
   text-align: center;
 }
+
+@media (max-width: 960px) {
+  .title-large {
+    font-size: 2em;
+  }
+}

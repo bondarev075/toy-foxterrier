@@ -7,9 +7,15 @@
   padding-top: 10px;
 }
 
+.feedback-person {
+  text-align: center;
+}
+
 .person-image {
   display: inline-block;
-  margin-right: 10px;
+  width: 100%;
+  margin-left: auto;
+  margin-right: auto;
   float: left;
 }
 
